@@ -1,0 +1,56 @@
+
+
+div.maindiv{
+
+border-width:6px;
+
+border-style:solid;
+
+overflow-x:auto;
+
+overflow-y:hidden;
+
+white-space:nowrap;
+
+height:200px;
+
+background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+
+}
+
+div.maindiv a img{
+
+display:inline-blocck;
+
+margin:0 5px;
+
+}
+
+div.mainmenu img{
+
+height:100%;
+
+width:auto;
+
+border-width:0 5px;
+
+border-style:outset;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
