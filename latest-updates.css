@@ -10,9 +10,6 @@ div.maindiv{
 div.maindiv a img{
                   display:inline-blocck;
                   margin:0 5px;
-}
-
-div.maindiv a img{
                   height:95%;
                   width:auto;
                   border-width:0 5px;
